@@ -1,5 +1,13 @@
 # Spring Dev Tools Issue
 
+## Description
+
+The application is not properly shutdown data source when a change is made in the code. Issue:
+https://github.com/spring-projects/spring-boot/issues/40587
+
+Solution:
+https://github.com/spring-projects/spring-boot/issues/40587#issuecomment-2094264261
+
 ## Requirements
 
 Java 17
